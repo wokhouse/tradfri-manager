@@ -1,0 +1,19 @@
+{
+  "name": "tradfri-manager",
+  "version": "1.0.0",
+  "description": "webpage to manage your IKEA tradfri bulbs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overwatchcorp/tradfri-manager.git"
+  },
+  "author": "Jasper Fung <fungj@reed.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/overwatchcorp/tradfri-manager/issues"
+  },
+  "homepage": "https://github.com/overwatchcorp/tradfri-manager#readme"
+}
